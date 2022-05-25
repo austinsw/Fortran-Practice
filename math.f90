@@ -20,4 +20,4 @@ program fortrantut
   call random_number(rand)
   print "(i2)",  low + floor((high + 1 - low) * rand)
 
- end program fortrantut
+end program fortrantut
