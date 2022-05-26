@@ -15,8 +15,8 @@ In terminal:
 
 ### With module
 
-`gfortran -c <module.f90> <file.f90>` To run
+`gfortran -c <module.f90> <file.f90>` Compile
 
-`gfortran <module.o> <file.o>` object file
+`gfortran <module.o> <file.o>` Execute the object files
 
 `./a.out` For output
