@@ -13,3 +13,10 @@ In terminal:
 
 `./a.out` To direct output
 
+### With module
+
+`gfortran -c <module.f90> <file.f90>` To run
+
+`gfortran <module.o> <file.o>` object file
+
+`./a.out` For output
